@@ -1,0 +1,10 @@
+[General]
+ipc_version=4
+file=gowin_user_flash
+module=Gowin_User_Flash
+target_device=gw1n1-004
+type=user_flash
+version=3.0
+
+[Config]
+LANG=0

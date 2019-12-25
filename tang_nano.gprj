@@ -8,5 +8,8 @@
         <File path="src/tang_nano.sdc" type="file.sdc" enable="1"/>
         <File path="src/tang_nano.cst" type="file.cst" enable="1"/>
         <File path="src/tang_nano_top.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_osc/gowin_osc.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_rpll/gowin_rpll.v" type="file.verilog" enable="1"/>
+        <File path="src/gowin_user_flash/gowin_user_flash.v" type="file.verilog" enable="1"/>
     </FileList>
 </Project>
