@@ -3,7 +3,7 @@
 <UserConfig>
     <FlowState>
         <Process ID="Synthesis" State="2"/>
-        <Process ID="Pnr" State="4"/>
+        <Process ID="Pnr" State="2"/>
         <Process ID="Gao" State="0"/>
     </FlowState>
     <ResultFileList>
