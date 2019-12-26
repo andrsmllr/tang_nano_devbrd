@@ -1,5 +1,5 @@
 # tang_nano_devbrd
-Play and learn with the Sipeed Tang Nano development board featuring a Gowin GW1N-1-LV ("Little Bee") FPGA.  
+Play and learn with the Tang Nano development board by Sipeed, featuring a GOWIN GW1N-1-LV ("Little Bee") FPGA.  
 
 References:  
 [Official product page (sipeed.com)](https://www.seeedstudio.com/Sipeed-Tang-Nano-FPGA-board-powered-by-GW1N-1-FPGA-p-4304.html)  
